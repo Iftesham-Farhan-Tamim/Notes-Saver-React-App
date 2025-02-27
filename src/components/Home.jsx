@@ -41,7 +41,7 @@ const Home = () => {
     }
 
     return (
-        <div className='min-h-screen bg-gray-900 text-white p-6'>
+        <div className='min-h-screen bg-gray-900 text-white p-6 rounded-b-2xl'>
             {/* Navigation Bar */}
             <nav className='flex justify-between items-center bg-gray-800 p-4 rounded-lg 
             shadow-lg mb-6'>
