@@ -116,7 +116,8 @@ const Paste = () => {
                     ))
                 ) : (
                     <div className="col-span-full text-center text-gray-400">
-                        No pastes found.
+                        <p className='mb-2'>No notes found.</p>
+                        <p>Create your notes first.</p>
                     </div>
                 )}
             </div>
